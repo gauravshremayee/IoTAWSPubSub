@@ -1,3 +1,7 @@
+
+
+....
+
 # IoTAWSPubSub
 Interaction between IoT &amp; AWS Device
 
@@ -5,3 +9,9 @@ Interaction between IoT &amp; AWS Device
 ![](IoTPubSub2.PNG)
 ![](IoTPubSub3.PNG)
 ![](IoTPubSub4.PNG)
+
+
+
+`npm install`
+
+`ng serve`
